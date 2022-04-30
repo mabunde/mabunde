@@ -12,6 +12,7 @@ Skilled Software Developer with Extensive experience in Java, Spring Boot, Andro
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabunde&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mabunde&repo=RecipeSearch)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mabunde/mabunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
