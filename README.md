@@ -2,7 +2,7 @@
 
 
 # Sitati Solomon
-Skilled Software Developer with Extensive experience in Java, Spring Boot, Android, React Native, ReactJs,Angular along with Data Structures & Algorithms.
+Skilled Software Developer with Extensive experience in Java, Spring Boot, Android,Angular along with Data Structures & Algorithms.
 
 <br>
 
